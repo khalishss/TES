@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://github.com/khalishss/TES</url>
+      <url>https://maven.pkg.github.com/khalishss/TES</url>
     </repository>
   </distributionManagement>
   
